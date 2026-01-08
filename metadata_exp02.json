@@ -1,0 +1,17 @@
+{
+  "id": "exp02_jwst_recalibracao_h0",
+  "titulo": "Experimento 2 - Recalibração com JWST",
+  "autor": "Alessandro Q. V. Castro",
+  "projeto": "Teoria do Evento",
+  "tipo": "toy-model cosmológico",
+  "metodo": "comparação de calibrações observacionais",
+  "regime": "late universe",
+  "instrumentos": [
+    "JWST",
+    "Planck"
+  ],
+  "status": "exploratório",
+  "nao_prova_TE": true,
+  "assume_modelo_padrao": true,
+  "data": "2026-01"
+}
